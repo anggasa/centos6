@@ -39,5 +39,5 @@ done
 echo " "
 echo ""
 echo "Cek User Expired Berhasil !!!"
-echo " "
-echo " " 
+echo "untuk melihat user yang sudah expired ketik : cat expireduser.txt"
+echo "Script By: Worm" 
