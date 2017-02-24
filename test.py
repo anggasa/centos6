@@ -373,7 +373,7 @@ def speedtest():
     del options
 
     if not args.simple:
-        print_('Fawzya AN Akan Test Speed Kamu')
+        print_('Saya Akan Test Speed Kamu')
     config = getConfig()
 
     if not args.simple:
@@ -510,7 +510,7 @@ def speedtest():
             print_('Orak biso nge-test speed')
             sys.exit(1)
 
-        print_('Fawzya AN Berhasil Test Speed. Hasil Bisa dilihat di : http://www.speedtest.net/result/%s.png' %
+        print_('Berhasil Test Speed. Hasil Bisa dilihat di : http://www.speedtest.net/result/%s.png' %
                resultid[0])
 
 
