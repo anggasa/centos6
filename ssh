@@ -1,0 +1,1 @@
+sh login 443 && python test.py --share
