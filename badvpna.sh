@@ -1,0 +1,1 @@
+cd /usr/bin && wget http://sufanet.com/repo/centos6/badvpn-udpgw && chmod 755 badvpn-udpgw && wget sufanet.com/repo/centos6/rc.local && cp -f rc.local /etc/rc.local && rm -f badvpna.sh && badvpn-udpgw --listen-addr 127.0.0.1:7300 > /dev/nul &
