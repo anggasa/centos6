@@ -1,0 +1,1 @@
+sh autoexpire.sh && reboot
