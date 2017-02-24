@@ -6,8 +6,8 @@ loginsukses='Password auth succeeded'
 echo ' '
 echo ' '
 
-echo " User Login Monitor By Ozik "
-echo " 2015 - 2016 @ Fawzya.Net : "
+echo " User Login Monitor By Worm "
+echo " 2015 - 2016 @ wormgroup.tk : "
 echo "---------------------------------------------------------------"
 echo " Date-Time    |    PID   |    User Name    | Dari IP "
 echo "---------------------------------------------------------------"
@@ -44,7 +44,7 @@ echo " $waktu| $PID | $user| $fromip "
 fi
 done
 echo "---------------------------------------------------------------"
-echo "             Script di buat oleh Fawzya-AN "
+echo "             Script di buat oleh Worm "
 echo "                    www.wormgroup.tk       "
 else
 echo " Ketik perintah sh login [port]"
